@@ -2,11 +2,11 @@ ABOUT PROJECT -This project involves developing a simple calendar application us
 
 Short guide for users to access your GitHub project:
   1.	Go to the Repository:
-	•	Visit the GitHub link: [your-repo-link].
-	2.	Download the Project:
+	•	Visit the GitHub link: https://github.com/AbhinavM1107/DSA-CALENDAR.git
+  2.	Download the Project:
 	•	Click the green Code button.
 	•	Choose Download ZIP to download, or copy the URL and run:
   3.	Install Dependencies (if applicable):
 	•	Follow the instructions in the README to install any required packages (e.g., pip install or npm install).
-	4.	Run the Project:
+  4.	Run the Project:
 	•	Follow the steps in the README to run the project.
