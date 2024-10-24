@@ -7,4 +7,4 @@ Short guide for users to access your GitHub project:
   2.	Install Dependencies (if applicable):
 	•	Follow the instructions in the README to install any required packages (e.g., pip install or npm install).
   3.	Run the Project:
-	•	Follow the steps in the README to run the project.
+	•	Use C++ compiler , VS code will be Best to use.
