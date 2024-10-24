@@ -5,6 +5,6 @@ Short guide for users to access your GitHub project:
 	•	Click the green Code button.
 	•	Choose Download ZIP to download, or copy the URL and run:
   2.	Install Dependencies (if applicable):
-	•	Follow the instructions in the README to install any required packages (e.g., pip install or npm install).
+	•	Install Dependencies if require
   3.	Run the Project:
 	•	Use C++ compiler , VS code will be Best to use.
